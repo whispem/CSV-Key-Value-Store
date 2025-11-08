@@ -117,7 +117,10 @@ fn load_csv() -> Vec<(String, String)> {
                 if l.is_empty() { continue; }
                 let parts: Vec<&str> = l.splitn(2, ',').collect();
                 if parts.len() == 2 {
-                    pairs.push((parts[0].to_string(), parts[1].to_string()));
+                    pairs.push((
+                    parts[0].trim().to_string(), 
+                    parts[1].trim().to_string()
+                    ));
                 }
             }
         }
