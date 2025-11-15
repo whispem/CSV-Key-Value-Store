@@ -121,3 +121,7 @@ Suggestions or reading recommendations are always welcome. 🙏
 ---
 
 Built while exploring Rust and file-backed storage — 2025 🦀
+
+---
+
+If you spot anything that could be written in a more idiomatic or elegant Rust style, I’m always curious to understand why.
