@@ -308,7 +308,7 @@ From literature background to building storage engines. This is one of my first 
 ## 📬 Contact
 
 - 🐛 **Issues:** [GitHub Issues](https://github.com/whispem/CSV-Key-Value-Store/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/whispem/CSV-Key-Value-Store/discussions)
+- 💬 **Suggestions:** Open a discussion!
 - 📧 **Email:** contact.whispem@gmail.com
 
 ---
